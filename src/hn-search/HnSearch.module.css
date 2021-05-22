@@ -1,0 +1,19 @@
+.container {
+  width: 85%;
+  margin: 0 auto;
+  border: 2px solid black;
+}
+
+.container .header {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.container .main {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.main .mainContent {
+  min-height: calc(100vh - 200px);
+}

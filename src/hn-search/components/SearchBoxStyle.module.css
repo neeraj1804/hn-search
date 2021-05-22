@@ -1,0 +1,13 @@
+.searchBoxCont {
+  margin: 20px auto;
+}
+
+.searchBoxCont .searchBoxInput {
+  height: 32px;
+  width: 80%;
+  padding: 16px 50px;
+  font-weight: 400;
+  background-color: #fff;
+  color: rgba(0,0,0,.75);
+  font-size: 1.2rem;
+}
